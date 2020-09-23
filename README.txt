@@ -1,6 +1,4 @@
-33537140
-Advanced Audiovisual Processing
-Portfolio Project 1
+A short FM soundscape, using the Maximilian C++ library for some frequency modulation synthesis.
 
 This project can be launched from the command line by cd'ing into the directory and entering "./run.sh" (the shellscript works for Mac but not Windows).
 
